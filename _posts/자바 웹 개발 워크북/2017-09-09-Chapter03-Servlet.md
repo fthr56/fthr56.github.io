@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Chapter03-Servlet"
-tags: [자바웹개발워크북]
-categories: [Java Web Workbook]
+tags: [자바 웹 개발 워크북]
+categories: [자바 웹 개발 워크북]
 ---
 
 CGI
